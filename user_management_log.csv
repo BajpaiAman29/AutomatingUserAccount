@@ -1,0 +1,51 @@
+2025-08-21 14:08:04 - Creating new user 'max'.
+2025-08-21 14:08:04 -  User 'max' created successfully.
+2025-08-21 14:08:04 - Added 'max' to the 'Administrator' group.
+2025-08-21 14:08:04 - Created home directory for 'max' at 'C:\\Users\max'.
+2025-08-21 14:08:04 - Set full control permission for 'username' on their home directory
+2025-08-21 14:08:04 - Creating new user 'rob'.
+2025-08-21 14:08:04 -  User 'rob' created successfully.
+2025-08-21 14:08:04 - Added 'rob' to the 'Users' group.
+2025-08-21 14:08:04 - Created home directory for 'rob' at 'C:\\Users\rob'.
+2025-08-21 14:08:04 - Set full control permission for 'username' on their home directory
+2025-08-21 14:11:11 - Creating new user 'max'.
+2025-08-21 14:11:11 -  User 'max' created successfully.
+2025-08-21 14:11:11 - Added 'max' to the 'Administrator' group.
+2025-08-21 14:11:11 - Created home directory for 'max' at 'C:\\Users\max'.
+2025-08-21 14:11:11 - Set full control permission for 'username' on their home directory
+2025-08-21 14:11:11 - Creating new user 'rob'.
+2025-08-21 14:11:11 -  User 'rob' created successfully.
+2025-08-21 14:11:11 - Added 'rob' to the 'Users' group.
+2025-08-21 14:11:11 - Created home directory for 'rob' at 'C:\\Users\rob'.
+2025-08-21 14:11:11 - Set full control permission for 'username' on their home directory
+2025-08-21 15:01:30 - Creating new user 'max'.
+2025-08-21 15:01:31 - User 'max' created successfully.
+2025-08-21 15:01:31 - Added 'max' to the 'Administrator' group.
+2025-08-21 15:01:31 - Created home directory for 'max' at 'C:\Users\max'.
+2025-08-21 15:01:31 - Set full control permission for 'max' on their home directory
+2025-08-21 15:01:31 - Creating new user 'rob'.
+2025-08-21 15:01:31 - User 'rob' created successfully.
+2025-08-21 15:01:31 - Added 'rob' to the 'Users' group.
+2025-08-21 15:01:31 - Set full control permission for 'rob' on their home directory
+2025-08-21 15:03:10 - User 'max' exists, updating the account
+2025-08-21 15:03:10 - The user named 'max' is added to the Administrator group.
+2025-08-21 15:03:10 - Set full control permission for 'max' on their home directory
+2025-08-21 15:03:10 - User 'rob' exists, updating the account
+2025-08-21 15:03:10 - 'rob' is not a member of the 'Administrator' group.
+2025-08-21 15:03:10 - Set full control permission for 'rob' on their home directory
+2025-08-21 15:10:50 - User 'max' exists, updating the account
+2025-08-21 15:10:50 - The user named 'max' is added to the Administrators group.
+2025-08-21 15:10:50 - Created home directory for 'max' at 'C:\Users\max'.
+2025-08-21 15:10:50 - Set full control permission for 'max' on their home directory
+2025-08-21 15:10:50 - User 'rob' exists, updating the account
+2025-08-21 15:10:50 - 'rob' is not a member of the 'Administrators' group.
+2025-08-21 15:10:50 - Created home directory for 'rob' at 'C:\Users\rob'.
+2025-08-21 15:10:50 - Set full control permission for 'rob' on their home directory
+2025-08-21 15:16:05 - User 'max' exists, updating the account
+2025-08-21 15:16:05 - The user named 'max' is added to the Administrators group.
+2025-08-21 15:16:05 - Created home directory for 'max' at 'C:\Users\max'.
+2025-08-21 15:16:05 - Set full control permission for 'max' on their home directory
+2025-08-21 15:16:05 - User 'rob' exists, updating the account
+2025-08-21 15:16:05 - 'rob' is not a member of the 'Administrators' group.
+2025-08-21 15:16:05 - Created home directory for 'rob' at 'C:\Users\rob'.
+2025-08-21 15:16:05 - Set full control permission for 'rob' on their home directory
